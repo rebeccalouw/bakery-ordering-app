@@ -91,7 +91,6 @@ function addItemToBasket(foodItemId) {
 }
 
 
-
 function renderBasket() {
     let ordersHtml = ``
     let totalPrice = 0
