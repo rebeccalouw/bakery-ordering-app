@@ -16,7 +16,9 @@ Possible actions:
 
 .
 
-<img alt="demo screenshot" src="images/crumb-screenshot1.png" height="300px"/> <img alt="demo screenshot" src="images/crumb-screenshot2.png" height="300px"/> <img alt="demo screenshot" src="images/crumb-screenshot3.png" height="300px"/>
+<img alt="demo screenshot" src="images/crumb-screenshot1.png" width="300px"/> 
+<img alt="demo screenshot" src="images/crumb-screenshot2.png" width="300px"/> 
+<img alt="demo screenshot" src="images/crumb-screenshot3.png" width="300px"/>
 
 
 
