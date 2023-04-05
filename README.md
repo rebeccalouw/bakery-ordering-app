@@ -1,4 +1,4 @@
-# Bakery Ordering App 🥖
+# crumb. 🥖 Bakery Ordering App 
 
 #### ✨ Deployed/demo version ![https://bakery-ordering-app.netlify.app/](https://bakery-ordering-app.netlify.app/)
 
