@@ -14,6 +14,12 @@ Possible actions:
 - Proceeding with the payment
 - Receiving a personalised order confirmation
 
+.
+
+<img alt="demo screenshot" src="images/crumb-screenshot1.png" height="300px"/> <img alt="demo screenshot" src="images/crumb-screenshot2.png" height="300px"/> <img alt="demo screenshot" src="images/crumb-screenshot3.png" height="300px"/>
+
+
+
 ## Author: 
 👩‍💻 Rebecca Louw ![@rebeccalouw](https://github.com/rebeccalouw)
 
