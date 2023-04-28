@@ -1,6 +1,6 @@
 # crumb. 🥖 Bakery Ordering App 
 
-#### ✨ Deployed/demo version ![https://bakery-ordering-app.netlify.app/](https://bakery-ordering-app.netlify.app/)
+#### ✨ Deployed/demo version <a href="https://bakery-ordering-app.netlify.app/" target="_blank" rel="noreferrer">https://bakery-ordering-app.netlify.app/</a> 
 
 ## Demo overview
 This app allows the user to order baked goods, available in desktop and mobile versions. 
