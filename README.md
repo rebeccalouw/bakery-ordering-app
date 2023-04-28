@@ -14,12 +14,13 @@ Possible actions:
 - Receiving a personalised order confirmation
 
 ## Developer overview
-This is a simple app built to practice my JavaScript learning. 
-- This app contains a data file with an object for each item available for sale
-- The items for sale displayed on the screen are rendered in the JavaScript by mapping over the array of objects and creating the HTML
-- There is functionality to add items to the order and update the price as items are added of removed 
-- There was conditional rendering used to display the order summary
-- The payment form is displayed in a model and the order confirmation makes use of the client's name to confirm the order
+This is a simple app I built to reinforce my JavaScript learning. 
+- This app contains a data file, housing an object for each item available for sale
+- The items for sale displayed on the screen are rendered in JavaScript, by mapping over the array of objects and generating the HTML
+- This app features a functionality to add or remove items in the order, updating the total price as the number of items in the basket increase or decrease
+- Conditional rendering is used to display the order summary
+- The payment form is displayed in a modal with the order confirmation referencing the client's name to confirm the order
+
 
 <br/>
 
