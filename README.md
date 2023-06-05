@@ -17,7 +17,7 @@ Possible actions:
 This is a simple app I built to reinforce my JavaScript learning. 
 - This app contains a data file, housing an object for each item available for sale
 - The items for sale displayed on the screen are rendered in JavaScript, by mapping over the array of objects and generating the HTML
-- This app features a functionality to add or remove items in the order, updating the total price as the number of items in the basket increase or decrease
+- This app features a functionality to add or remove items in the order, updating the total price as the number of items in the basket increases or decreases
 - Conditional rendering is used to display the order summary
 - The payment form is displayed in a modal with the order confirmation referencing the client's name to confirm the order
 
